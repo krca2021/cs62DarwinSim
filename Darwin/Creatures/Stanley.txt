@@ -1,0 +1,14 @@
+Stanley
+orange
+ifenemy 7
+ifwall 3
+ifsame 3
+hop
+go 1
+ifrandom 7
+left
+go 1
+right
+go 1
+infect
+go 1
