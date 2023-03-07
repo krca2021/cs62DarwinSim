@@ -1,6 +1,8 @@
 # Assignment - Darwin
 
-### This is a pair assignment where you will work with a partner from your learning community. 
+### This is a pair assignment where you will work with a partner from your learning community.
+
+### AUTHOR'S NOTE: I completed this assignment independently.
 
 ## Learning Goals
 
